@@ -1,7 +1,7 @@
 <!-- 居中控制 -->
 <div align="center">
 
-# 👋 Hi, I'm 你的名字
+# 👋 Hi, I'm 1124839262
 ### 全栈开发工程师 | 开源爱好者 | 技术分享博主
 
 <!-- 打字机动画 -->
@@ -21,21 +21,21 @@
 ## 📊 GitHub 数据统计
 <div align="center">
 <!-- 个人总数据卡片 -->
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=1124839262&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 <!-- 连续打卡记录 -->
-<img width="400" src="https://streak-stats.demolab.com/?user=你的用户名&theme=tokyonight&hide_border=true&locale=zh_Hans"/>
+<img width="400" src="https://streak-stats.demolab.com/?user=1124839262&theme=tokyonight&hide_border=true&locale=zh_Hans"/>
 <!-- 常用语言 -->
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1124839262&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 🏆 GitHub 成就奖杯
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=1124839262&theme=tokyonight&no-frame=true"/>
 </div>
 
 ## 📈 全年贡献热力图
 <div align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=github-dark&hide_border=true&area=true"/>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=1124839262&theme=github-dark&hide_border=true&area=true"/>
 </div>
 
 ## 🔗 社交 & 联系方式
@@ -44,7 +44,7 @@
 <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="你的掘金/知乎"><img src="https://img.shields.io/badge/-掘金-007FFF?style=flat-square&logo=juejin&logoColor=white"></a>
 <!-- 主页访问计数器 -->
-<img src="https://count.getloli.com/get/@:你的用户名?theme=tokyonight"/>
+<img src="https://count.getloli.com/get/@:1124839262?theme=tokyonight"/>
 </div>
 
 <div align="center">
