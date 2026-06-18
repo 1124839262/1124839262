@@ -40,9 +40,7 @@
 
 ## 🔗 社交 & 联系方式
 <div align="center">
-<a href="你的博客链接"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"></a>
-<a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="你的掘金/知乎"><img src="https://img.shields.io/badge/-掘金-007FFF?style=flat-square&logo=juejin&logoColor=white"></a>
+<a href="[你的博客链接](https://blog.csdn.net/qq_37720933)"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"></a>
 <!-- 主页访问计数器 -->
 <img src="https://count.getloli.com/get/@:1124839262?theme=tokyonight"/>
 </div>
